@@ -4,7 +4,7 @@ This is an extended version of the original theme "GoldenGate" that came with Op
 <br>
 I updated his theme to add Ventura and Sonoma custom icons, and update Windows icons to Windows 11 and add other icons.
 
-<img align="center" src="https://github.com/HJebbour/GoldenGateExt-OpenCore-Theme/blob/main/Docs/GoldenGateExt-1.png" alt="GoldenGate Extended 1" width="671">
+<img align="center" src="https://github.com/HJebbour/GoldenGateExt-OpenCore-Theme/blob/main/Docs/GoldenGateExt-1.png" alt="GoldenGate Extended 1" width="1080">
 
 ## Supported OS
 
