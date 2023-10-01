@@ -1,10 +1,10 @@
-# GoldenGate Extended OpenCore Theme
+# GoldenGate Extended OpenCore Theme v1.3
 
 This is an extended version of the original theme "GoldenGate" that came with OpenCore, with additional icons for Windows, Linux, and macOS by [eugene28](https://www.insanelymac.com/forum/topic/344251-opencanopy-icons/page/39/#comment-2773461)
 <br>
-I updated his theme to add Ventura and Sonoma custom icons, and update Windows icons to Windows 11.
+I updated his theme to add Ventura and Sonoma custom icons, and update Windows icons to Windows 11 and add other icons.
 
-<img align="center" src="https://github.com/HJebbour/GoldenGateExt-OpenCore-Theme/blob/main/Docs/GoldenGateExt-1.png" alt="GoldenGate Extended 1" width="1440">
+<img align="center" src="https://github.com/HJebbour/GoldenGateExt-OpenCore-Theme/blob/main/Docs/GoldenGateExt-1.png" alt="GoldenGate Extended 1" width="671">
 
 ## Supported OS
 
