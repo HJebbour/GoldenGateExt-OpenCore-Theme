@@ -4,7 +4,7 @@ This is an extended version of the original theme "GoldenGate" that came with Op
 <br>
 I updated his theme to add Ventura and Sonoma custom icons, and update Windows icons to Windows 11.
 
-<img align="center" src="https://github.com/HJebbour/GoldenGateExt-OpenCore-Theme/blob/main/Docs/GoldenGateExt-1.png" alt="GoldenGate Extended 1" width="1080">
+<img align="center" src="https://github.com/HJebbour/GoldenGateExt-OpenCore-Theme/blob/main/Docs/GoldenGateExt-1.png" alt="GoldenGate Extended 1" width="1440">
 
 ## Supported OS
 
@@ -56,6 +56,8 @@ I updated his theme to add Ventura and Sonoma custom icons, and update Windows i
 - Void Linux
 - Xubuntu
 - Zorin OS
+- ESXi (Added by me - Should be added manually via Misc->Entries)
+- EVE-NG (Added by me - Should be added manually via Misc->Entries otherwise it will be detected as Ubuntu)
 
 </details>
 
@@ -95,7 +97,7 @@ Make sure OpenCanopy.efi is injected in EFI folder and config.plist
     
 <br>
 <p float="center">
-<img align="center" src="https://github.com/HJebbour/GoldenGateExt-OpenCore-Theme/blob/main/Docs/Icon-1.png" alt="Icon pack 1" width="1080">
-<img align="center" src="https://github.com/HJebbour/GoldenGateExt-OpenCore-Theme/blob/main/Docs/Icon-2.png" alt="Icon pack 2" width="1080">
-<img align="center" src="https://github.com/HJebbour/GoldenGateExt-OpenCore-Theme/blob/main/Docs/GoldenGateExt-2.png" alt="GoldenGate Extended 2" width="1080">
+<img align="center" src="https://github.com/HJebbour/GoldenGateExt-OpenCore-Theme/blob/main/Docs/Icon-1.png" alt="Icon pack 1" width="1440">
+<img align="center" src="https://github.com/HJebbour/GoldenGateExt-OpenCore-Theme/blob/main/Docs/Icon-2.png" alt="Icon pack 2" width="1440">
+<img align="center" src="https://github.com/HJebbour/GoldenGateExt-OpenCore-Theme/blob/main/Docs/GoldenGateExt-2.png" alt="GoldenGate Extended 2" width="1440">
 </p>
