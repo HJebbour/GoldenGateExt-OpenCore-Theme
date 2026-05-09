@@ -1,8 +1,8 @@
-# GoldenGate Extended OpenCore Theme v2.0
+# GoldenGate Extended OpenCore Theme v3.0
 
-This is an extended version of the original theme "GoldenGate" that came with OpenCore, with additional icons for Windows, Linux, and macOS by [eugene28](https://www.insanelymac.com/forum/topic/344251-opencanopy-icons/page/39/#comment-2773461)
+GoldenGate Extended is an expanded version of the original **GoldenGate** theme included with OpenCore. It builds on the additional Windows, Linux, and macOS icons created by [eugene28](https://www.insanelymac.com/forum/topic/344251-opencanopy-icons/page/39/#comment-2773461).
 <br>
-I updated his theme to add Ventura, Sonoma, Sequoia, and Tiger through El Capitan custom icons, and update Windows icons to Windows 11 and add other icons.
+This version updates and extends the theme with custom icons for macOS Ventura, Sonoma, Sequoia, Tahoe, and older macOS versions from Tiger through El Capitan. It also updates the Windows icons to include Windows 11 and adds additional icons for other operating systems and virtualization platforms.
 
 <img align="center" src="./Docs/GoldenGateExt-1.png" alt="GoldenGate Extended 1" width="1080">
 
@@ -11,23 +11,24 @@ I updated his theme to add Ventura, Sonoma, Sequoia, and Tiger through El Capita
 <details>
 <summary><strong>macOS</strong></summary>
 
-- Mac OS X Tiger - Apple10_4 (Added by me)
-- Mac OS X Leopard - Apple10_5 (Added by me)
-- Mac OS X Snow Leopard - Apple10_6 (Added by me)
-- Mac OS X Lion - Apple10_7 (Added by me)
-- OS X Mountain Lion - Apple10_8 (Added by me)
-- OS X Mavericks - Apple10_9 (Added by me)
-- OS X Yosemite - Apple10_10 (Added by me)
-- OS X El Capitan - Apple10_11 (Added by me)
+- Mac OS X Tiger - Apple10_4 (Added in this version)
+- Mac OS X Leopard - Apple10_5 (Added in this version)
+- Mac OS X Snow Leopard - Apple10_6 (Added in this version)
+- Mac OS X Lion - Apple10_7 (Added in this version)
+- OS X Mountain Lion - Apple10_8 (Added in this version)
+- OS X Mavericks - Apple10_9 (Added in this version)
+- OS X Yosemite - Apple10_10 (Added in this version)
+- OS X El Capitan - Apple10_11 (Added in this version)
 - macOS Sierra - Apple10_12
 - macOS High Sierra - Apple10_13
 - macOS Mojave - Apple10_14
 - macOS Catalina - Apple10_15
 - macOS Big Sur - Apple11
 - macOS Monterey - Apple12
-- macOS Ventura - Apple13 (Added by me)
-- macOS Sonoma - Apple14 (Added by me)
-- macOS Sequoia - Apple15 (Added by me)
+- macOS Ventura - Apple13 (Added in this version)
+- macOS Sonoma - Apple14 (Added in this version)
+- macOS Sequoia - Apple15 (Added in this version)
+- macOS Tahoe - Apple26 (Added in this version)
 
 </details>
 
@@ -37,6 +38,7 @@ I updated his theme to add Ventura, Sonoma, Sequoia, and Tiger through El Capita
 - Linux (Base icon for Linux)
 - Arch Linux
 - CentOS
+- CachyOS
 - Debian
 - Deepin
 - elementary OS
@@ -65,17 +67,18 @@ I updated his theme to add Ventura, Sonoma, Sequoia, and Tiger through El Capita
 - Void Linux
 - Xubuntu
 - Zorin OS
-- ESXi (Added by me - Should be added manually via Misc->Entries)
-- EVE-NG (Added by me - Should be added manually via Misc->Entries otherwise it will be detected as Ubuntu)
-- Proxmox (Added by me - Should be added manually via Misc->Entries)
+- ESXi (Added in this version - must be added manually via Misc > Entries)
+- EVE-NG (Added in this version - must be added manually via Misc > Entries; otherwise, it may be detected as Ubuntu)
+- Proxmox (Added in this version - must be added manually via Misc > Entries)
 
 </details>
 
 <details>
 <summary><strong>Windows</strong></summary>
 
-- Windows 11 - Default icon for any version of Windows (Added by me)
-- Windows 10 (If you want to use this icon as the default for Windows, rename icon file to Windows.icns)
+- Windows 11 - Default icon for all Windows versions (Added in this version)
+- Windows Server 2025 (Added in this version - to use it as the default Windows icon, rename the icon file to Windows.icns)
+- Windows 10 (Added in this version - to use it as the default Windows icon, rename the icon file to Windows.icns)
 
 </details>
 
@@ -97,9 +100,10 @@ Make sure OpenCanopy.efi is injected in EFI folder and config.plist
 
 ## Credits
 
-- Big thanks to [eugene28](https://www.insanelymac.com/forum/topic/344251-opencanopy-icons/page/39/#comment-2773461) for the beautiful theme
+- Special thanks to [eugene28](https://www.insanelymac.com/forum/topic/344251-opencanopy-icons/page/39/#comment-2773461) for the original extended GoldenGate theme and icons
 - [Acidanthera Team](https://github.com/acidanthera)
-- [Opencore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) team for the extended theme idea
+- [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) team for the extended theme concept
+- [OpenCanopy Generator](https://github.com/chris1111/OpenCanopy-Generator), created by [chris1111](https://github.com/chris1111), for the PNG to ICNS conversion tool
 
 </details>  
 
